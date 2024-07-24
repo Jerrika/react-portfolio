@@ -15,9 +15,9 @@ html {
     -moz-osx-font-smoothing: grayscale;
     background-image: linear-gradient(
       to top right,
-      #fac90624 0%,
-      #ff660014 50%,
-      #cc330025 100%
+      hsla(275, 96%, 50%, 0.141) 0%,
+      hsla(260, 74%, 33%, 0.078) 50%,
+      hsla(267, 100%, 40%, 0.145) 100%
     );
     background-repeat: no-repeat;
     background-attachment: fixed;
